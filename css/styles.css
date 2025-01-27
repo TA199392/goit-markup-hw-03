@@ -149,12 +149,20 @@ img {
   max-width: 496px;
 }
 
+.advantages-section {
+  padding: 120px 0;
+}
 .advantages-hidden {
   margin: -1px;
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+.advantages-item {
+  display: flex;
+  gap: 24px;
+  width: calc((100% - 72px) / 4);
 }
 
 .advantages-title {
@@ -173,6 +181,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  margin-bottom: 8px;
 }
 
 .team-section {

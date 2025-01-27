@@ -95,7 +95,7 @@ img {
 
 .nav-link {
   display: block;
-  padding: 24px; 0;
+  padding: 24px 0;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -116,7 +116,7 @@ img {
 
 .contacts-link {
   display: block;
-  padding: 24px; 0;
+  padding: 24px 0;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -133,7 +133,7 @@ img {
 
 .initial-section {
   background-color: #2e2f42;
-  padding: 188px; 0;
+  padding: 188px 0;
 }
 .initial-title {
   font-family: 'Roboto', sans-serif;
@@ -175,7 +175,7 @@ img {
 
 .team-section {
   background-color: #f4f4fd;
-  padding: 188px; 0;
+  padding: 188px 0;
 }
 .team-title {
   font-family: 'Roboto', sans-serif;
@@ -187,7 +187,7 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.team-list  {
+.team-list {
   display: flex;
   justify-content: space-between;
 }
@@ -204,7 +204,6 @@ img {
 .team-item {
   background-color: #fff;
   border-radius: 4px;
-
 }
 
 .team-subtitle {

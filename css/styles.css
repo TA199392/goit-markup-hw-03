@@ -253,17 +253,15 @@ img {
 .page-footer {
   background-color: #2e2f42;
   max-width: 1158px;
-  padding: 15px;
-  margin: auto;
+  padding: 100px 0;
+  margin-bottom: 16px;
   width: 1440px;
   height: 312px;
-  display: inline-block;
 }
 
 .footer-subtitle {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-bottom: 16px;
-  padding: 100px 0;
+  display: inline-block;
 }

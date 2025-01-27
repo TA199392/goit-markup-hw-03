@@ -254,14 +254,17 @@ img {
   background-color: #2e2f42;
   max-width: 1158px;
   padding: 100px 0;
-  margin-bottom: 16px;
-  width: 1440px;
+  margin: auto width 1440px;
   height: 312px;
+}
+
+.footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-subtitle {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  display: inline-block;
 }
